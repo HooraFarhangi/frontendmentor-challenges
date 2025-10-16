@@ -14,8 +14,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## 🧠 What I Learned
 
-Write a short summary of what you learned or practiced while working on this project. For example:
-
 > I learned about meta tags which are very important and they control how the browser interprets and displays our webpage.
 >
 > <meta charset="UTF-8"> -> Purpose: It tells the browser which character enconding we are using in our HTML doc.
